@@ -78,7 +78,7 @@ public class CardTrick {
         System.out.println("-- Have a semester with no violations of academic integrity!");
         System.out.println();
 
-        System.out.println("My hobbies:");
+        System.out.println("My hobbies");
         System.out.println("-- Investing");
         System.out.println("-- Cooking");
         System.out.println("-- Reading/Watching TV");
